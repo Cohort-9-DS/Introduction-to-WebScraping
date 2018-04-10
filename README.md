@@ -1,5 +1,11 @@
 # Introduction-to-WebScraping
 
+**Challenge #1:**
+
+Go to http://www.boxofficemojo.com/studio/, for each year scrape the table and collect all tables and write them to a single csv file. 
+
+**Challenge #2:**
+
 Using this webpage http://quotes.wsj.com/, scrape the stock data for the following companies (you will need to find out their stock symbol):
 
 1) Apple 
